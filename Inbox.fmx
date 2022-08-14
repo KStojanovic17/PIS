@@ -1,9 +1,0 @@
-inherited InboxFrame: TInboxFrame
-  inherited MainLayout: TGridPanelLayout
-    inherited HeaderRect: TRectangle
-      inherited CaptionLbl: TLabel
-        TextSettings.Font.StyleExt = {00060000000000000004000000}
-      end
-    end
-  end
-end
