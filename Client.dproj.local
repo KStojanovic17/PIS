@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/10 20:29:59.000.781,=C:\Users\stoja\OneDrive\Desktop\probaj ponovo\chat_websocket-main\client\View.pas</Transaction>
+    <Transaction>2022/08/10 21:33:25.000.405,=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit1.pas</Transaction>
+    <Transaction>2022/08/10 21:34:08.000.176,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit1.fmx=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uClient.fmx</Transaction>
+    <Transaction>2022/08/10 21:34:08.000.176,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit1.pas=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uClient.pas</Transaction>
+    <Transaction>2022/08/10 21:49:16.000.568,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uClient.pas=</Transaction>
+    <Transaction>2022/08/10 22:08:51.000.273,=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit2.pas</Transaction>
+    <Transaction>2022/08/10 22:19:07.000.599,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uClient.fmx=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit2.fmx</Transaction>
+    <Transaction>2022/08/10 22:19:07.000.599,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uClient.pas=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit2.pas</Transaction>
+    <Transaction>2022/08/10 22:39:05.000.169,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uChat.fmx=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uClient.fmx</Transaction>
+    <Transaction>2022/08/10 22:39:05.000.169,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uChat.pas=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uClient.pas</Transaction>
+    <Transaction>2022/08/11 10:11:06.000.303,=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit2.pas</Transaction>
+    <Transaction>2022/08/11 10:15:54.000.399,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Nova.pas=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit2.pas</Transaction>
+    <Transaction>2022/08/11 10:15:54.000.399,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Nova.fmx=C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\Unit2.fmx</Transaction>
+    <Transaction>2022/08/11 10:19:33.000.891,C:\Users\stoja\OneDrive\Desktop\aplikacijaaaaa\uChat.pas=</Transaction>
+    <Transaction>2022/08/11 16:08:53.000.951,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\View.Profile.fmx=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\View.Account.fmx</Transaction>
+    <Transaction>2022/08/11 16:08:53.000.951,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\View.Profile.pas=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\View.Account.pas</Transaction>
+    <Transaction>2022/08/11 16:21:21.000.808,=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.pas</Transaction>
+    <Transaction>2022/08/11 16:21:46.000.602,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.pas=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Inbox.pas</Transaction>
+    <Transaction>2022/08/11 16:21:46.000.602,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.fmx=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Inbox.fmx</Transaction>
+    <Transaction>2022/08/11 16:26:34.000.312,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\View.ContactsList.fmx=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\View.Calls.fmx</Transaction>
+    <Transaction>2022/08/11 16:26:34.000.312,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\View.ContactsList.pas=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\View.Calls.pas</Transaction>
+    <Transaction>2022/08/11 16:28:21.000.440,=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.pas</Transaction>
+    <Transaction>2022/08/11 16:28:47.000.955,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.pas=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Teams.pas</Transaction>
+    <Transaction>2022/08/11 16:28:47.000.955,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.fmx=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Teams.fmx</Transaction>
+    <Transaction>2022/08/11 16:31:49.000.866,=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.pas</Transaction>
+    <Transaction>2022/08/11 16:32:21.000.540,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.pas=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Tasks.pas</Transaction>
+    <Transaction>2022/08/11 16:32:21.000.540,C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Unit2.fmx=C:\Users\stoja\OneDrive\Desktop\Aplikacija za internu komunikaciju u firmi\Tasks.fmx</Transaction>
+  </Transactions>
+</BorlandProject>
