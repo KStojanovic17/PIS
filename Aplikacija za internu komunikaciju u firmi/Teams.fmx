@@ -1,0 +1,10 @@
+inherited TeamsFrame: TTeamsFrame
+  inherited MainLayout: TGridPanelLayout
+    inherited HeaderRect: TRectangle
+      inherited CaptionLbl: TLabel
+        TextSettings.Font.StyleExt = {00060000000000000004000000}
+        Text = 'Teams'
+      end
+    end
+  end
+end
